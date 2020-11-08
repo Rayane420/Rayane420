@@ -3,7 +3,7 @@
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<h1 align="center">Olá, meu nome é Rayane</h1>
+<h2 align="center">Olá, meu nome é Rayane</h2>
 
 <h3 align="center">Sou uma desenvolvedora Java em formação</h3>
 
