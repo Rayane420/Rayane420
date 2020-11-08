@@ -17,10 +17,10 @@
 
 
 <h3 align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact&theme=radical" alt="rayane420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayane420" />
 
 <br/>
-<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=radical" alt="rayane420" />
+<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
 </h3>
 <br/>
 
