@@ -8,7 +8,7 @@
 <h4 align="center"> Meu nome é Rayane e Sou uma desenvolvedora Java em formação</h4>
 <h4 align="center"> Seja bem Vinda(o) ao meu perfil </h4>
 
-<h4 align="center">Linguagens e Ferramentas já usadas:</h4>
+<h4 align="center">Linguagens e Ferramentas:</h4>
 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
