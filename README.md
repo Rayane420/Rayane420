@@ -15,6 +15,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact" alt="rayane420" /></p>
 <br/>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&locale=en" alt="rayane420" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=radical" alt="rayane420" /></p>
 
 - 📫 Esse é meu e-mail para contato **rayanemaciel10@gmail.com**
