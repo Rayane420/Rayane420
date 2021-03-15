@@ -2,17 +2,20 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="400px" max-width="330px" width="330px" align="right" alt="Octocat">
+
 <p align="left"> 
   Olá 👩🏻‍💻, Seja bem vinda(o) ao meu perfil,
 </p>
 
 <p align="left">
-  Meu nome é Rayane</strong>
+  Meu nome é Rayane 🤗</strong>
 </p>
 
 <p align="left"> 
-  Sou Estudante do curso de Análise e Desenvolvimento de Sistemas e desenvolvedora  <strong>Java</strong>. Estou disponível para freelas/trabalho/Estágio, caso precise contratar meu serviço entre em contato.
+  Sou Estudante do curso de Análise e Desenvolvimento de Sistemas e Desenvolvedora  <strong>Java</strong>. <br> Estou disponível para freelas/trabalho/Estágio, e caso precise contratar meu serviço entre em contato.
 </p>
+
 
 
 
