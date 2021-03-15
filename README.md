@@ -2,20 +2,37 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<p align="left"> 
+  Olá 👩🏻‍💻, Seja bem vinda(o) ao meu perfil,
+</p>
 
-<h3 align="center">Olá 👩🏻‍💻 </h3>
+<p align="left">
+  Meu nome é Rayane</strong>
+</p>
 
-<h4 align="center"> Meu nome é Rayane e Sou uma desenvolvedora Java em formação</h4>
-<h4 align="center"> Seja bem Vinda(o) ao meu perfil </h4>
+<p align="left"> 
+  Sou Estudante do curso de Análise e Desenvolvimento de Sistemas e desenvolvedora  <strong>Java</strong>. Estou disponível para freelas/trabalho/Estágio, caso precise contratar meu serviço entre em contato.
+</p>
+
+
+
+<p align="left">
+  🧩 Habilidades: <strong>Java EE, JSF/JSP, Primefaces, Hibernate, Spring Boot</strong>
+</p>
+
+<p align="left">
+  🛠️ Ferramentas: <strong>VSCode, Eclipse, Postman, Postgresql, Git and GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+</p>
+
 
 
 <br/>
 <h3 align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
-</h3>
-
-
-<h3 align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayane420" />
 </h3>
 
