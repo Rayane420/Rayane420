@@ -33,11 +33,12 @@
 
 <br/>
 <h3 align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
-</h3>
-<h3 align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayane420" />
 </h3>
+<h3 align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
+</h3>
+
 
 <br/>
 
