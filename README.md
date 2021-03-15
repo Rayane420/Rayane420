@@ -13,7 +13,7 @@
 </p>
 
 <p align="left"> 
-  Sou Estudante do curso de Análise e Desenvolvimento de Sistemas e Desenvolvedora  <strong>Java</strong>. <br> Estou disponível para freelas/trabalho/Estágio, e caso precise contratar meu serviço entre em contato.
+  Sou Estudante do curso de Análise e Desenvolvimento de Sistemas e Desenvolvedora  <strong>Java</strong>. 
 </p>
 
 
@@ -27,9 +27,7 @@
   🛠️ Ferramentas: <strong>VSCode, Eclipse, Postman, Postgresql, Git and GitHub.</strong>
 </p>
 
-<p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
-</p>
+
 
 
 
