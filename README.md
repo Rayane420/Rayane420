@@ -2,7 +2,7 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Octocat">
+<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Octocat">
 
 <p align="left"> 
   Olá 👩🏻‍💻, Seja bem vinda(o) ao meu perfil,
