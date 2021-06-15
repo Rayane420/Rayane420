@@ -2,8 +2,6 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Octocat">
-
 <p align="left"> 
   Olá 👩🏻‍💻, Seja bem vinda(o) ao meu perfil,
 </p>
@@ -30,14 +28,18 @@
 
 
 
-
 <br/>
 <h3 align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rayane420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact&theme=default" alt="rayane420" />
 </h3>
+
+<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Octocat">
+
+
 <h3 align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
+<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=default" alt="rayane420" />
 </h3>
+
 
 
 <br/>
