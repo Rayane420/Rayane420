@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Octocat">
+<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="230px" max-width="230px" width="230px" align="right" alt="Octocat">
 
 <h3 align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=default" alt="rayane420" />
