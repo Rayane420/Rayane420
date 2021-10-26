@@ -9,18 +9,18 @@
 
 - 👩🏻‍💼🖥️ Meu nome é Rayane </strong>
 - 🍁 Estudante no curso de Análise e Desenvolvimento de Sistemas 
-- 🍁 Desenvolvedora  <strong>Java</strong>. 
+- 🍁 Estudante e Desenvolvedora  <strong>Java ☕</strong>. 
 - 🍁 Jogadora de MLBB, ex jogadora de Dota2 e apaixonada por lasanha.
 
 
 </p>
 
 
-<p align="center">
+<p align="left">
   🧩 Habilidades: <strong>Java EE, JSF/JSP, Primefaces, Hibernate, Spring Boot</strong>
 </p>
 
-<p align="center">
+<p align="left">
   🛠️ Ferramentas: <strong>VSCode, Eclipse, Postman, Postgresql, Git and GitHub.</strong>
 </p>
 
