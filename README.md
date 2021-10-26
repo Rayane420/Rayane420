@@ -2,19 +2,18 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="center"> 
-  Olá 👩🏻‍💻, Seja bem vinda(o) ao meu perfil,
+## Olá
+### Bem vindo(a) ao meu perfil,
+
 </p>
 
-<p align="center">
-  Meu nome é Rayane 🤗</strong>
+- 👩🏻‍💼🖥️ Meu nome é Rayane </strong>
+- 🍁 Estudante no curso de Análise e Desenvolvimento de Sistemas 
+- 🍁 Desenvolvedora  <strong>Java</strong>. 
+- 🍁 Jogadora de MLBB, ex jogadora de Dota2 e apaixonada por lasanha.
+
+
 </p>
-
-<p align="center"> 
-  Sou Estudante do curso de Análise e Desenvolvimento de Sistemas e Desenvolvedora  <strong>Java</strong>. 
-</p>
-
-
 
 
 <p align="center">
