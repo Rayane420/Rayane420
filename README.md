@@ -2,26 +2,29 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Olá
+![gif da tela login](https://github.com/Rayane420/Rayane420/blob/main/capa.gif)
+
+## Oi eu sou a Ray 👩🏻‍💼🖥️
 ### Bem vindo(a) ao meu perfil,
 
 </p>
 
 - 👩🏻‍💼🖥️ Meu nome é Rayane </strong>
 - 🍁 Estudante no curso de Análise e Desenvolvimento de Sistemas 
-- 🍁 Estudante e Desenvolvedora  <strong>Java ☕</strong>. 
-- 🍁 Jogadora de MLBB, ex jogadora de Dota2 e apaixonada por lasanha.
+- 🍁 Desenvolvedora  <strong>Java ☕</strong> em constante aprendizado 
+- 🍁 Jogadora de MLBB e apaixonada por lasanha
 
 
 </p>
 
 
 <p align="left">
-  🧩 Habilidades: <strong>Java EE, JSF/JSP, Primefaces, Hibernate, Spring Boot</strong>
+  🧩 Essas são algumas das minhas Habilidades técnicas: 
+  Java EE, JSF/JSP, Primefaces, Hibernate, Spring Boot
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>VSCode, Eclipse, Postman, Postgresql, Git and GitHub.</strong>
+  🛠️ Algumas Ferramentas que já trabalhei: <strong>VSCode, Eclipse, Postman, Postgresql, Git and GitHub.</strong>
 </p>
 
 <br/>
@@ -39,7 +42,7 @@
 </h3>
 
 
-
+ 
 
 
 
