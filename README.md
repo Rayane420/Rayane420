@@ -2,9 +2,9 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![gif da tela login](https://github.com/Rayane420/Rayane420/blob/main/capa.gif)
+![gif da tela login](https://github.com/Rayane420/Rayane420/blob/main/Capa%20git.gif)
 
-## Oi eu sou a Ray 👩🏻‍💼🖥️
+### Oi eu sou a Ray 👩🏻‍💼🖥️
 ### Bem vindo(a) ao meu perfil,
 
 </p>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  🛠️ Algumas Ferramentas que já trabalhei: <strong>VSCode, Eclipse, Postman, Postgresql, Git and GitHub.</strong>
+  🛠️ Algumas Ferramentas que já trabalhei: VSCode, Eclipse, IntelliJ Idea, Postman, Postgresql, Git
 </p>
 
 <br/>
