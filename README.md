@@ -10,22 +10,33 @@
 </p>
 
 - 👩🏻‍💼🖥️ Meu nome é Rayane </strong>
-- 🍁 Estudante no curso de Análise e Desenvolvimento de Sistemas 
-- 🍁 Desenvolvedora  <strong>Java ☕</strong> em constante aprendizado 
-- 🍁 Jogadora de MLBB e apaixonada por lasanha
+-Estudante no curso de Análise e Desenvolvimento de Sistemas 
+-Desenvolvedora  <strong>Java ☕</strong> em constante aprendizado 
+-Jogadora de MLBB e apaixonada por lasanha
 
 
 </p>
 
-
+<br/>
 <p align="left">
-  🧩 Essas são algumas das minhas Habilidades técnicas: 
-  Java EE, JSF/JSP, Primefaces, Hibernate, Spring Boot
+  🛠️ Algumas Ferramentas que já trabalhei:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">  
+ 
+</div>
+
 </p>
 
-<p align="left">
-  🛠️ Algumas Ferramentas que já trabalhei: VSCode, Eclipse, IntelliJ Idea, Postman, Postgresql, Git
-</p>
+
 
 <br/>
 
@@ -34,6 +45,10 @@
 <h3 align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=default" alt="rayane420" />
 </h3>
+
+
+
+
 <!--
 
 <br/>
