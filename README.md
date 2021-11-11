@@ -10,9 +10,8 @@
 </p>
 
 - 👩🏻‍💼🖥️ Meu nome é Rayane </strong>
--Estudante no curso de Análise e Desenvolvimento de Sistemas 
--Desenvolvedora  <strong>Java ☕</strong> em constante aprendizado 
--Jogadora de MLBB e apaixonada por lasanha
+- Estudante no curso de Análise e Desenvolvimento de Sistemas 
+- Desenvolvedora  <strong>Java ☕</strong>
 
 
 </p>
