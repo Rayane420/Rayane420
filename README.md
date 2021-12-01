@@ -4,12 +4,11 @@
 
 ![gif da tela login](https://github.com/Rayane420/Rayane420/blob/main/Capa%20git.gif)
 
-### Oi eu sou a Ray 👩🏻‍💼🖥️
-### Bem vindo(a) ao meu perfil,
+### Oi eu sou a Rayane 👩🏻‍💼
+Bem vindo(a) ao meu perfil,
 
 </p>
 
-- 👩🏻‍💼🖥️ Meu nome é Rayane </strong>
 - Estudante no curso de Análise e Desenvolvimento de Sistemas 
 - Desenvolvedora  <strong>Java ☕</strong>
 
@@ -24,7 +23,6 @@
   <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg">
   <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg">
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
@@ -38,7 +36,6 @@
 
 <br/>
 
-<img src="https://github.com/Rayane420/Rayane420/blob/main/octocat.png" min-width="230px" max-width="230px" width="230px" align="right" alt="Octocat">
 
 <h3 align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=default" alt="rayane420" />
