@@ -4,7 +4,7 @@
 
 ![gif da tela login](https://github.com/Rayane420/Rayane420/blob/main/Capa%20git.gif)
 
-### Oi eu sou a Rayane 👩🏻‍💼
+### Oi, meu nome é Rayane 👩🏻‍💼
 Bem vindo(a) ao meu perfil,
 
 </p>
