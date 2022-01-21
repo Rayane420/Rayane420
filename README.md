@@ -9,8 +9,8 @@ Bem vindo(a) ao meu perfil,
 
 </p>
 
-- Estudante no curso de Análise e Desenvolvimento de Sistemas 
-- Desenvolvedora  <strong>Java ☕</strong>
+💡 Estudante no curso de Análise e Desenvolvimento de Sistemas 
+<Br>💡 Desenvolvedora  <strong>Java ☕</strong>
 
 
 </p>
