@@ -36,7 +36,7 @@ Bem vindo(a) ao meu perfil,
 
 
 <h3 align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=default" alt="rayane420" />
+<img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
 </h3>
 
 
