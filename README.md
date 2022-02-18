@@ -4,9 +4,10 @@
 
 ![gif da capa](https://github.com/Rayane420/Rayane420/blob/main/Capa%20neon.gif)
 
-### Oi, meu nome é Rayane 
+### Olá
 Bem vindo(a) ao meu perfil,
 
+### Algumas informações sobre mim: 
 </p>
 💡 Estudante no curso de Análise e Desenvolvimento de Sistemas <Br>
 💡 Desenvolvedora  <strong>Java ☕</strong>
@@ -40,7 +41,7 @@ Bem vindo(a) ao meu perfil,
 </h3>
 
 
-
+<i> Talk is Cheap, Show Me The Code! <i>
 
 <!--
 
@@ -49,12 +50,11 @@ Bem vindo(a) ao meu perfil,
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayane420&show_icons=true&locale=en&layout=compact&theme=default" alt="rayane420" />
 </h3>
 
-
  
 
 
-
 <br/>
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rayane%20Maciel-6633cc?style=radical-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-maciel/)](https://www.linkedin.com/in/rayane-maciel/) 
