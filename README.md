@@ -2,7 +2,7 @@
 <!--
 **Rayane420/Rayane420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![gif da tela login](https://github.com/Rayane420/Rayane420/blob/main/Capa%20git.gif)
+![gif da capa](https://github.com/Rayane420/Rayane420/blob/main/Capa%20neon.gif)
 
 ### Oi, meu nome é Rayane 
 Bem vindo(a) ao meu perfil,
