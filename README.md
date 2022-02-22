@@ -9,9 +9,8 @@ Bem vindo(a) ao meu perfil,
 
 ### Algumas informações sobre mim: 
 </p>
-💡 Estudante no curso de Análise e Desenvolvimento de Sistemas <Br>
-💡 Desenvolvedora  <strong>Java ☕</strong>
-
+⭐ Formada em Análise e Desenvolvimento de Sistemas pela Universidade católica de Brasília <Br>
+⭐ Desenvolvedora  Jr 
 </p>
 
 <br/>
