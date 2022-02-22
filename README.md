@@ -9,7 +9,7 @@ Bem vindo(a) ao meu perfil,
 
 ### Algumas informações sobre mim: 
 </p>
-⭐ Formada em Análise e Desenvolvimento de Sistemas pela Universidade católica de Brasília <Br>
+⭐ Formada em ADS pela Universidade católica de Brasília <Br>
 ⭐ Desenvolvedora  Jr 
 </p>
 
