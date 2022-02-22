@@ -39,6 +39,9 @@ Bem vindo(a) ao meu perfil,
 <img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
 </h3>
 
+![Contribuição](https://activity-graph.herokuapp.com/graph?username=rayane420&theme=react-dark&hide_border=true&area=true)
+
+
 
 <i> Talk is Cheap, Show Me The Code! <i>
 
