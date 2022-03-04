@@ -24,8 +24,7 @@ Bem vindo(a) ao meu perfil,
   <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg">
   <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg">
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg">  
- 
+   
 </div>
 
 </p>
