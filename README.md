@@ -9,10 +9,10 @@ Bem vindo(a) ao meu perfil,
 
 ### Algumas informações sobre mim: 
 </p>
-🖥️ Desenvolvedora Java Jr 
-🎓 Formada em ADS pela Universidade católica de Brasília <Br>
-💌 E-mail para contato: rayanemaciel10@gmail.com
-📷 Fotografa amadora e mãe de pets 🐦🐦
+- 🖥️ Desenvolvedora Java Jr
+- 🎓 Formada em ADS pela Universidade católica de Brasília <Br>
+- 💌 E-mail para contato: rayanemaciel10@gmail.com
+- 📷 Fotografa amadora e mãe de pets 🐦🐦
 </p>
 
 <br/>
