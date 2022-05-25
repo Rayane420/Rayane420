@@ -11,7 +11,7 @@ Bem vindo(a) ao meu perfil,
 </p>
 🖥️ Desenvolvedora Java Jr <Br>
 🎓 Formada em ADS pela Universidade católica de Brasília <Br>
-📷 Fotografa amadora e mãe de pets 🐦🐦 <br>
+📷 Hobbies: Fotografa amadora e mãe de pets 🐦🐦 <br>
 💌 E-mail para contato: rayanemaciel10@gmail.com
 </p>
 
