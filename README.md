@@ -39,13 +39,16 @@ Bem vindo(a) ao meu perfil,
 <h3 align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
 </h3>
+
 -->
-
-![Contribuição](https://activity-graph.herokuapp.com/graph?username=rayane420&theme=react-dark&hide_border=true&area=true)
-
+![Contribuição](https://github-readme-activity-graph.cyclic.app/graph?username=rayane420&theme=react-dark&hide_border=true&area=true)
 
 
-<i> Talk is Cheap, Show Me The Code! <i>
+
+
+<!--<i> Talk is Cheap, Show Me The Code! <i>-->
+  
+<i>"Saber muito não lhe torna inteligente. A inteligência se traduz na forma que você recolhe, julga, maneja e, sobretudo, onde e como aplica esta informação." - Carl Sagan<i>
 
 <!--
 
