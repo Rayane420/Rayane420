@@ -11,7 +11,7 @@ Bem vindo(a) ao meu perfil,
 </p>
 🖥️ Desenvolvedora backend Java <Br>
 🎓 Formada em ADS pela Universidade católica de Brasília <Br>
-📷 Hobbies: Fotografa amadora e mãe de pets 🐦🐦 <br>
+📷 Hobbies: Fotografia amadora, leitura e jogos de celular <br>
 💌 E-mail para contato: rayanemaciel10@gmail.com
 </p>
 
