@@ -41,7 +41,7 @@ Bem vindo(a) ao meu perfil,
 </h3>
 
 -->
-![Contribuição](https://github-readme-activity-graph.cyclic.app/graph?username=rayane420&theme=react-dark&hide_border=true&area=true)
+<!--![Contribuição](https://github-readme-activity-graph.cyclic.app/graph?username=rayane420&theme=react-dark&hide_border=true&area=true)-->
 
 
 
