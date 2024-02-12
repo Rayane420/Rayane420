@@ -12,7 +12,7 @@ Bem vindo(a) ao meu perfil,
 🖥️ Desenvolvedora backend Java <Br>
 🎓 Formada em ADS pela Universidade católica de Brasília <Br>
 📷 Hobbies: Fotografia amadora, leitura e jogos de celular <br>
-💌 E-mail para contato: rayanemaciel10@gmail.com
+💌 Linkedin: https://www.linkedin.com/in/rayane-maciel/
 </p>
 
 <br/>
@@ -36,11 +36,11 @@ Bem vindo(a) ao meu perfil,
 <br/>
 
 <!--
-<h3 align="center">
+<h3 align="center">-->
 <img  src="https://github-readme-stats.vercel.app/api?username=rayane420&show_icons=true&theme=tokyonight" alt="rayane420" />
 </h3>
 
--->
+
 <!--![Contribuição](https://github-readme-activity-graph.cyclic.app/graph?username=rayane420&theme=react-dark&hide_border=true&area=true)-->
 
 
