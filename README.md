@@ -11,7 +11,6 @@ Bem vindo(a) ao meu perfil,
 </p>
 🖥️ Desenvolvedora backend Java <Br>
 🎓 Formada em ADS pela Universidade católica de Brasília <Br>
-📷 Hobbies: Muay thai, Fotografia amadora, leitura e jogos de celular <br>
 💌 Linkedin: https://www.linkedin.com/in/rayane-maciel/
 </p>
 
